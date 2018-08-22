@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="MySQL - student_forum@localhost" uuid="c30ec213-cf60-4d6c-8d00-730c54bf41f6">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-scope>student_forum:</introspection-scope>
+      <resolve-scope>student_forum:</resolve-scope>
+    </data-source>
+  </component>
+</project>

@@ -1,0 +1,22 @@
+body{
+
+	background-color: red;
+}
+
+p{
+	color: yellow;
+
+}
+.first, .second{
+	width: 200px;
+	float: left;
+	text-align: center;
+}
+.first > select, .second > select{
+	width: 100%;
+}
+
+.input{
+	margin: auto;
+	width: 50%;
+}
