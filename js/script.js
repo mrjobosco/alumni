@@ -137,7 +137,3 @@ $('#search').on('keydown', function (event) {
 
 
 })
-
-
-// Chat
-

@@ -11,8 +11,7 @@ if($user->isLoggedIn()){
 }
 
 if(Input::exists()){
-  if(Input::get('signup'))
-  {
+  if(Input::get('signup')){
     $validate = new Validation();
 
     $validation = $validate->check($_POST,[
